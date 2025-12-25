@@ -33,7 +33,7 @@ Se aplicó geometría analítica para proyectar el volumen de almacenamiento en 
 
 ---
 
-##  Stack Tecnológico
+##  Herramientas de Análisis y Desarrollo
 * **Python 3** (Pandas, NumPy, Matplotlib)
 * **Jupyter Notebooks** (Google Colab)
 * **Mathematical Modeling:** Cálculo de derivadas y producto punto matricial.
