@@ -1,4 +1,4 @@
-# 🍷 Business Analytics: Optimización Operativa para Bodega
+#  Business Analytics: Optimización Operativa para Bodega
 
 Este proyecto presenta una solución integral de **Análisis de Datos** y **Modelado Matemático** aplicada a una bodega modelo en la región de Mendoza, Argentina. 
 
