@@ -11,6 +11,8 @@ Se analizó la serie de tiempo anual para identificar hitos operativos. El model
 
 * **Impacto:** Permite planificar la contratación de personal eventual para la Vendimia y ajustar el stock antes de las temporadas bajas.
 
+* ![Gráfico de Ventas](graficoventas.jpg)
+
 <br>
 
 ---
