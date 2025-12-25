@@ -37,10 +37,31 @@ Se aplicó geometría analítica para proyectar el volumen de almacenamiento en 
 
 ---
 
+## 2. Optimización del Mix de Producción (PuLP)
+En esta fase, el análisis pasa de ser **descriptivo** a **prescriptivo**. Utilizamos modelos de **Investigación Operativa** para resolver el desafío de la escasez de recursos.
+
+* **El Problema:** Con una limitación de **900.000 kg de uva**, el modelo determina la combinación óptima entre Malbec y Cabernet para maximizar la rentabilidad.
+* **Resultado:** Se alcanzó una solución óptima de **$16.920.000,00 USD** priorizando el varietal de mayor margen.
+
+<br>
+
+---
+
+## 🧊 3. Visualización de Superficies y Estructura
+Se aplicó geometría analítica y cálculo para proyectar volúmenes y visualizar superficies de ganancia.
+
+
+* **Propósito:** Identificar visualmente el "Punto Óptimo" de producción y optimizar la capacidad de estiba en cavas.
+
+<br>
+
+---
+
 ##  Herramientas de Análisis y Desarrollo
-* **Python 3** (Pandas, NumPy, Matplotlib)
-* **Jupyter Notebooks** (Google Colab)
-* **Mathematical Modeling:** Cálculo de derivadas y producto punto matricial.
+* **Python 3:** (Pandas, NumPy, Matplotlib)
+* **Optimización Lineal:** Librería **PuLP** para investigación operativa.
+* **Modelado Matemático:** Programación lineal, cálculo de derivadas y álgebra matricial.
+* **Entorno:** Jupyter Notebooks (Google Colab).
 
 ---
 
