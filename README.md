@@ -27,6 +27,8 @@ Utilizando álgebra lineal (NumPy), se automatizó el cálculo de facturación c
 ##  3. Modelado 3D de Estructura de Cava
 Se aplicó geometría analítica para proyectar el volumen de almacenamiento en cavas bovedadas.
 
+![Gráfico de Ventas](grafico3d.jpg)
+
 * **Propósito:** Optimizar la capacidad de estiba y el aprovechamiento del espacio físico para el añejamiento en barricas.
 
 <br>
