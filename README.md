@@ -47,7 +47,7 @@ En esta fase, el análisis pasa de ser **descriptivo** a **prescriptivo**. Utili
 
 ---
 
-## 🧊 3. Visualización de Superficies y Estructura
+## 3. Visualización de Superficies y Estructura
 Se aplicó geometría analítica y cálculo para proyectar volúmenes y visualizar superficies de ganancia.
 
 
